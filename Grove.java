@@ -4,7 +4,7 @@ public class Grove {
     public String groveName;
 
     public Grove(String name){
-        this.trees = new Tree[12]; //check for other ways to set array
+        this.trees = new Tree[12]; 
         this.groveName = name;
     }
 
